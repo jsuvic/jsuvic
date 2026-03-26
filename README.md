@@ -13,11 +13,10 @@ I'm the founder of **[Diffmon](https://diffmon.dev)** — change insurance for A
 #### Currently focused on
 
 - Shipping Diffmon's public beta
-- - Writing about API drift, schema validation, and contract testing on [Dev.to](https://dev.to/jsuvic)
-  - - Connecting with engineers who've been burned by silent API changes
+- Writing about API drift, schema validation, and contract testing on [Dev.to](https://dev.to/jsuvic)
+- Connecting with engineers who've been burned by silent API changes
    
-    - #### Connect
-   
-    - - [diffmon.dev](https://diffmon.dev)
-    - - [Dev.to](https://dev.to/jsuvic)
-    - - [LinkedIn](https://www.linkedin.com/in/jaroslav-suva)
+#### Connect
+- [diffmon.dev](https://diffmon.dev)
+- [Dev.to](https://dev.to/jsuvic)
+- [LinkedIn](https://www.linkedin.com/in/jaroslav-suva)
