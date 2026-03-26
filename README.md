@@ -19,5 +19,5 @@ I'm the founder of **[Diffmon](https://diffmon.dev)** — change insurance for A
     - #### Connect
    
     - - [diffmon.dev](https://diffmon.dev)
-      - - [Dev.to](https://dev.to/jsuvic)
-        - - [LinkedIn](https://www.linkedin.com/in/jaroslav-suva)
+    - - [Dev.to](https://dev.to/jsuvic)
+    - - [LinkedIn](https://www.linkedin.com/in/jaroslav-suva)
